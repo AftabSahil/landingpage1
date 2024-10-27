@@ -13,3 +13,7 @@ Welcome to the Landing Page project! This project showcases a simple and respons
 - HTML5
 - CSS3
 - JavaScript
+
+## landingpage preview
+
+https://aftabsahil.github.io/landingpage1/
